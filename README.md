@@ -1,0 +1,1 @@
+# Cordova, React, Typescript, TailwindCSS, Vite
